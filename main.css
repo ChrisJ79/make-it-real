@@ -8,9 +8,9 @@ body {
 }
 
 .side-box {
-    height: 180px;
+    height: 190px;
     width: 140px;
-    font-size: 10px;
+    font-size: 11px;
     font-family: sans-serif;
     background-color: white;
     color: black;
@@ -21,6 +21,18 @@ body {
 
 .small-text-wrapper {
     width: 80%;
+    line-height: 95%;
+
+}
+
+.bold-words {
+    font-weight: bold;
+    margin-left: 15px;    
+}
+
+.gray-words {
+    color: gray;
+    margin-left: 30px;    
 }
 
 
